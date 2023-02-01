@@ -2,7 +2,6 @@
 // Address all the TODOs to make the tests pass!
 // Execute `rustlings hint structs2` or use the `hint` watch subcommand for a hint.
 
-// I AM NOT DONE
 
 #[derive(Debug)]
 struct Order {
